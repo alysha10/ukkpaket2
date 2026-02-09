@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Konfigurasi
-DB_NAME="moodle2"
+DB_NAME="moodle"
 DB_USER="root"
 BACKUP_DIR="/home"
 DATE=$(date +"%Y-%m-%d_%H-%M")
