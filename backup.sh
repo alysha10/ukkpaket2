@@ -3,7 +3,7 @@
 # Konfigurasi
 DB_NAME="moodle"
 DB_USER="root"
-BACKUP_DIR="/home"
+BACKUP_DIR="/home/ukkpaket2/"
 DATE=$(date +"%Y-%m-%d_%H-%M")
 
 # Nama file backup
